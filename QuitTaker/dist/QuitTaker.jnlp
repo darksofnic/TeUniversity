@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="QuitTaker.jnlp">
+  <information>
+    <title>QuitTaker</title>
+    <vendor>steam</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="lib\mysql-connector-java-8.0.18.jar" size="2330539" download="eager" />
+    <jar href="lib\ojdbc10.jar" size="4243140" download="eager" />
+    <jar href="lib\ons.jar" size="144681" download="eager" />
+    <jar href="lib\oraclepki.jar" size="306004" download="eager" />
+    <jar href="lib\orai18n.jar" size="1661488" download="eager" />
+    <jar href="lib\osdt_cert.jar" size="205154" download="eager" />
+    <jar href="lib\osdt_core.jar" size="306854" download="eager" />
+    <jar href="lib\simplefan.jar" size="29205" download="eager" />
+    <jar href="lib\ucp.jar" size="1680074" download="eager" />
+    <jar href="lib\xdb.jar" size="262664" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="QuitTaker" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="QuizTest.QuizTest"  name="QuitTaker" />
+  <update check="always"/>
+</jnlp>

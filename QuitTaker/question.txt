@@ -1,0 +1,600 @@
+1.What does java stand for?
+Is not an acronym.
+Japan Anti-Vivisection Association.
+Japanese American Veterans' Association.
+Jasper Arithmetic Valid Application.
+Neither of them.
+2.What does java element mean?
+All of them.
+is an object for all intents and purposes.
+Elements are no different from objects.
+Element is a generic Object.
+Neither of them.
+3.What is the different between the int and double?
+Int are whole numbers, while double are number with decimal Values.
+Int are for printers, and double is a number times 2.
+Int is the intelligent and double is the power x .
+They are the same.
+Neither of them.
+4.What does char do ?
+holds a single character.
+give you the power of the wind.
+is a sequence of characters.
+is a wrapperClass.
+neither of them.
+5.Which is the correct form to print a New Line?
+System.out.newLine();
+System.out.err();
+System.out.print()
+System.out.printf();
+System.out.println();
+6.What is a methods?
+Methods are bound to a class and they define the behavior of a class.
+Methods are characteristic of a variable.
+Methods are nothing.
+.
+.
+7.How do you initialized an Array  in Java?
+DataType[] Array = new DataType[n];
+DataType array[N];
+DataType array[n];
+DataType[] Array;
+DataType[n] Array;
+8.How many different type of sorts are there?
+The are two types algorithms and comparison sorts
+The are plenty of them.
+The are 4, algorithm , int, double ,char
+The are 5, algorithm , int, double ,char, String
+Neither of them;
+9.Which is the quickest sort?
+Quicksort
+BubbleSort
+binaryTree
+Neither of them
+All of them
+10.What is a thread?
+is an independent set of values for the processor registers.
+Is something that the police need to deal with.
+Is something that the fireDeparment need to deal with.
+Neither of them
+All of them
+11.What is the main purpose of char?
+Is a reserved word that holds one character.
+Is a character of a movie.
+Is a name without meaning
+.
+.
+12.What is the main purpose of double?
+is a reserved word that holds a number w/o decimal
+Is a reserved word that holds a whole number.
+Is a reserved word that holds a String.
+Is a reserved word that holds a Array.
+None of them.
+13.What is a class?
+is a user defined blueprint or prototype from which objects are created.
+Is a ClassRoom 
+Is a Type of 
+is a part of the code where you have many important item
+None of them.
+14.What is the correct form to initialized a String?
+String name;
+string name;
+string name
+String name
+name string;
+15.What is a String?
+is an immutable object, it is constant and cannot be change
+is a Acronyms of  Syntetic Tecnologic Rapid Intelligent Nano Genetic
+Is a type of rope
+All of them
+None of them
+16.What are packages?
+is a mechanism to encapsulate a group of classes, sub packages and interfaces.
+Is a Methods utilized to make group of variable
+if a function utilized to make a group of variable
+Is a box
+None of them.
+17.What is the main purpose of a packages?
+None of them
+Gather all your variable into one box.
+Take all your functions into 1 single box.
+.
+.
+18.How can you use a packages?
+All of them.
+Preventing Naming conflicts
+Making searching/locating and usage of classes.
+Providing controlled access.
+Data Encapsulation.
+19.What is public static void main(String args[]) in java
+Is the entry point for any java program.
+Is a extra line of code.
+It doesn't have a meaning
+Is important to have it.
+Neither of them.
+20.What is a public?
+All of them.
+Is a keyword which declares a member's access as public.
+Is of public used.
+Any other data can use it.
+None of them.
+21.What is a private?
+Keyword only visible within the the area specified.
+Is a private car
+is a private boat
+It doesnt have a meaning
+none of them.
+22.Can you have more then one thread?
+Yes
+.
+No.
+.
+.
+23.How many thread a JVM server Can Have?
+256
+5
+10
+100
+200
+24.What JVM Stand for?
+Java Virtual Machine
+Java Visual Member
+Java Visual Machine
+Java Virtual Member
+Java Virtual Mutan
+25.What should come at the end of every statement?
+An semicolan;
+A comment
+the next line of code.
+A function
+A Variable.
+26.Can you use other languages with java?
+Yes.
+.
+No.
+.
+.
+27.What is an if statement?
+Is a Conditional.
+is a request
+is a word
+is a Statement
+none of them.
+28.how many type of constructor are there?
+2.
+1.
+3.
+4.
+5.
+29.Which Are the type of contructor?
+Non-Arg constructor and Parameterized Constructor.
+Non-Arg Constructor and variable contructor.
+Integer Constructor and String Constructor.
+Double Constructor and char* arg constructor.
+None of them.
+30.Why pointers are not used in Java?
+Java doesn’t use pointers because they are unsafe and increases the complexity of the program.
+Because pointer are bad guys.
+Cuz they are worless
+No body understand them
+All of them.
+31.How many access modifier are there in java?
+4.
+1.
+2.
+3.
+5.
+32.Which are the acess modifier?
+public,private,protected,default.
+private,Accesible,Local,Host
+Protected,Save,UnLoad,load
+.
+.
+33.What is an object in java?
+is an instance of a class.
+Is a thing that you can used in variables.
+Is a Variable
+Is an acess modifier.
+None of them.
+34.In java what is a local variable?
+is a variable that's declared within the body of a method.
+is a variable know by everyone
+is a variable from massachutset
+is a variable famous.
+.
+35.In java what is a instance variable?
+ is used by Objects to store their states.
+ Is a inmediate variable
+ is a fast variable
+ is a variable with a instance
+ Is a variable without meaning
+36.What is (this)in java?
+is a keyword that reference variable in Java that refers to the current object
+Is this variable
+is this byebye
+is this Salmon
+is this Brigado
+37.What is (super()) in java?
+is a keyword. It is used inside a subclass method definition to call a method defined in the super class.
+Is Calling a SuperMan.
+Is calling a destructor.
+.
+.
+38.what is a heap memory?
+is a location in memory where memory may be allocated at random access.
+is a memory located in the heap.
+is a memory is located in specific position
+none of them.
+all of them.
+39.What is java string pool?
+is a pool of Strings stored in Java Heap Memory.
+Is a pool fill with water, where string swim
+is a pool with string and character.
+none of them.
+all of them.
+40.what is a static method?
+Is a method that belongs to a class rather than an instance of a class.
+is a methods that doesnt move.
+it have electricity insde
+Is nothing more than static.
+Electricity
+41.is a stringBuilder Mutable?
+Yes.
+no.
+.
+.
+.
+42.what is a string buffer?
+is a peer class of String that provides much of the functionality of strings.
+is a String that buffere string.
+Is a BufferString
+All of them.
+None of them.
+43.What is a classloader in java?
+is a part of the Java Runtime Environment that dynamically loads \n Java classes into the Java Virtual Machine. 
+Is a class that have a loader Function
+Is a class that you never used.
+Is part of the JDK
+.
+44.What import do you need to implement to used Collections class?
+java.util.Collections
+java.io.util.Collections.
+java.import.util.Collections
+java.awt.Collections.
+java.Collections.
+45.What is runtime in java?
+Is a object class that provide information about the environment in which a program runs.
+is a running type of variable
+is java while running.
+is something not defined.
+none of them.
+46.What is method overriding?
+is a feature that allows a subclass or child class to provide a \nspecific implementation of a method.
+Is how you overrided a variable
+is how you override a horse.
+All of them.
+None of them. 
+47.Is it possible to over ride a private class?
+No.
+Yes.
+.
+.
+.
+48.What is == in java?
+is a relational operator that is used to compare two operands.
+Is use to assign a operand into a variable.
+is a assigning operator
+none of them
+all of them.
+49.What is ! in java?
+Logical not operator, used for inverting a boolean value
+Is a exclamation Mark
+Is a thing without meaning
+All of them.
+None of them.
+50.What is && in java?
+Logical AND returns true when both conditions are true
+Logical AND returns true when one is true, and the other one is false.
+Logical AND returns True when both conditions are false.
+all of them.
+neither of them.
+51.What is a compiler?
+is a compiler for the programming language Java
+it combinate two variable into one.
+It's compile your functions only.
+none of them.
+all of them.
+52.what is a stack?
+is a Last In First Out (LIFO) data structure.
+Is a Static Ternary arithmetic Color Kenic
+Is a datatype.
+None of them
+All of them.
+53.what is the name of the person that created java?
+James Gosling
+Jack Albert Vernandiz Arms
+Jason Albelini VA.
+All of them.
+None of them.
+54.How many bytes does a long have? 
+8 bytes.
+4 bytes.
+5 bytes.
+16 bytes.
+None of them.
+55.How many bytes does a int have? 
+4 bytes
+8 bytes.
+16 bytes.
+33 bits
+None of them.
+56.How many bit does a short have? 
+16 Bits
+2 Bytes
+23 Byte
+All of them.
+None of them.
+57.How many bytes does a boolean have? 
+1 bytes
+2 Bytes.
+8 Bytes.
+All of them.
+None of them.
+58.How many bytes does a double have? 
+8 bytes
+10 bytes.
+16 bytes.
+32 bytes.
+6 bytes.
+59.How many bytes does a float have? 
+4 bytes
+4 bits
+4 doubles bytes.
+12 bytes
+32 bits
+60.How many bytes does a char have? 
+2 bytes
+1 byte
+16 bits
+32 bits
+4 bytes.
+61.Is a byte a wrapper class?
+Yes.
+No.
+.
+.
+.
+62.What are try and catch used for?
+Is a statement that allows you to test for errors while Executed. Catch received the error.
+Is a Variable name.
+Is a Statement that help your executable to execute.
+None of them.
+All of them
+63.What are the main features of java?  
+It a object oriented programming langue
+Is a programing language like the others ones
+Is a C++ program.
+None of them
+All of them
+64. How many principal of object oriented programming?
+4
+2
+3
+1
+5
+65.What are the fundamental principles of object oriented programming ?
+Encapsulation,Data Abstraction, Polymorphism abd Inheritance.
+Double, boolean, char , int.
+Long, Integer, Character , new.
+None of them.
+All of them.
+66.  What is multithreaded programming?  
+Multithreaded programming is one of the key features of java\n which allows multiple threads to execute their task simultaneously.
+MultiThread programming allows you to have multiple variables implemente.
+MultiThread Programming allows you to have multiple classes.
+None of them.
+All of them.
+67.What year was java released in?
+1995
+2019
+2018
+2005
+2000
+68.How many bits does a long have? 
+64 bits.
+4 bytes.
+5 bytes.
+16 bytes.
+None of them.
+69.How many bits does a int have? 
+32 bits
+8 bytes.
+16 bytes.
+33 bits
+None of them.
+70.How many bytes does a short have? 
+2 Bytes
+16 bits
+23 Byte
+All of them.
+None of them.
+71.How many bits does a boolean have? 
+None of them.
+2 Bits.
+8 Bits.
+All of them.
+32 Bytes.
+72.How many bits does a double have? 
+64 bits
+10 bits.
+16 bits.
+32 bytes.
+6 bytes.
+73.How many bits does a float have? 
+32 bits.
+4 bits
+4 doubles bytes.
+12 bytes
+35 bits
+74.How many bits does a char have? 
+16 bits
+1 byte
+16 bits
+32 bits
+4 bytes.
+75.How many bits are in a Byte?
+8.
+5.
+6.
+12.
+14.
+76.What is the only ternary operator?
+( ? : )
+if
+For
+while
+None of them
+77. What the ternary operator is used for?
+Conditional operations
+Run time operations
+Adding operations
+Sustrating operations
+Dividing Operation.
+78.Can you Store a 20.75 In a INT?
+Yes. 
+No.
+.
+.
+.
+79. What will be store in a int x=15.76?
+x=15
+x=1576
+x=0.76
+x=15.76
+x=12.
+80.To distribute your application to different platforms how many java version do you need  to create?
+Just one version
+two version
+Three Versions
+4 Versions
+one for each platform
+81. Were is java used mostly for?
+it is used for a huge developer community
+It is used to train kid.
+It is used to train only.
+Applet is mostly used than JAva.
+None of the Above.
+82.Which method prints text in a java program?
+All of them.
+System.out.println()
+System.out.print()
+System.out.err().
+None of them.
+83.How can you make a class singleton?
+ is used to restrict the instantiation of a class and \n ensures that only one instance of the class exists in the JVM
+ Is something simplier to do
+ Is a class that doesnt need much.
+ None of them;
+ all of them.
+84.Which of the following is false about String?
+String is a primary data type.
+String is immutable.
+String can be created using new operator.
+None of the above.
+All of them.
+85 A class always has a default constructor.
+True
+False
+.
+.
+.
+86Which of the following is a marker interface?
+serializable
+comparable
+Versatil
+All of them.
+none of the above.
+87.When static binding occurs?
+Static binding occurs during Compile time.
+Static binding occurs during load time.
+Static binding occurs during runtime.
+None of the above.
+All of them.
+88.   What of the following is the default value of a local variable?
+The is no default value for local variabels
+mull
+0
+Depends upon the type of variable
+Not assigned
+89.Is there a default constructor for classes that doesn't have it?
+Yes.
+No.
+.
+.
+.
+90.   Which of the following is true about private access modifier?
+Variables, methods and constructors which are declared private can be accessed only by the members of the same class.
+Variables, methods and constructors which are declared private can be accessed by any class lying in same package.
+Variables, methods and constructors which are declared private in the superclass can be accessed only by its child class.
+All of them.
+None of the above. 
+91. What will happen if static modifier is removed from the signature of the main method?
+Compilation Error.
+RunTime Error: NoSuchMethodError.
+Program will compile and run without any output.
+Program will compile and run to show the required output.
+None of them.
+92. Can we have two public classes in one java file?
+True
+False
+.
+.
+.
+93.  What is the size of int variable?
+4 bytes from  -2,147,483,648 to 2,147,483,647
+16 bytes from  -16,147,483,648 to 16,147,483,647
+32 bytes from 0 to 2,147,483,647
+64 bit    from -64,147,483,648 to 64,147,483,647
+none of them
+94.  What is correct syntax for main method of a java class?
+public static int main(String[] args)
+public int main(String[] args)
+public static void main(String[] args)
+All of them.
+None of the above.
+95.  What is a transient variable?
+A transient variable is a variable that can not be serialized during Serialization.
+A transient variable is a variable which is serialized during Serialization.
+A transient variable is a variable which is to be marked as serializable.
+All of them.
+None of the above.
+96. Under what conditions is an object's finalize() method invoked by the garbage collector?
+When it detects that the object has become unreachable.
+As soon as object is set as null.
+At fixed intervalm it checks for null value.
+All of them
+None of the above.
+97. Dynamic binding uses which information for binding?
+type.
+object.
+variable.
+Both of the above.
+None of the above.
+98. What are the different between heap and stack memory in java?
+is that stack memory is used to store local variables and function call\n while heap memory is used to store objects in Java.
+Is that stack have 5 letter and heap only 4.
+Is that Stack have LIFO and heap have nothing.
+none of them
+All of them.
+99.What is the different between array list and vector in java?
+Vector's methods are synchronized and ArrayList's methods are not synchronized.
+There is no different Between them.
+Only James Gosling know the answer.
+None of them 
+All of them.
+100.  What are constructors in java?
+Is a Special method that is called when an object is Instantiated.
+Is a Buider that builds a variable.
+Is part of a variable.
+none of them. 
+all of them.

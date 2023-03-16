@@ -1,0 +1,52 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 27, 2018, 8:44:08 PM
+    Author     : steam//    -fx-font: 19px  Tahoma;
+*/
+
+#fancytext {
+    -fx-fill: white;
+    -fx-stroke: black;
+    -fx-stroke-width: 0.5;
+}
+#fancytext2 {
+    -fx-fill: lightcoral;
+    -fx-stroke: lightblue;
+    -fx-stroke-width: 0.5;
+}
+#fancytext3 {
+    -fx-fill: red;
+    -fx-stroke: black;
+    -fx-stroke-width: 0.5;
+}
+#fancytext4 {
+    -fx-fill: black;
+    -fx-stroke: lightgreen;
+    -fx-stroke-width: 1.0;
+}
+.button1{
+    -fx-base: #0061b0;    
+}
+
+#pane{
+    -fx-background-image: url("images/logo.png");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 900 506;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
+
+/*.label {
+    -fx-font: 18px Tahoma;
+    -fx-text-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, white 0%, black 50%);
+}
+.outline.label .text {
+    -fx-fill: black;
+    -fx-stroke: black;
+    -fx-stroke-width: 5px;
+}
+*/
